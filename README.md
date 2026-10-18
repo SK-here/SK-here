@@ -2,9 +2,9 @@
 
 **`SK-here`** · he/him
 
-Linux | Networking | Cloud | Servers | Computer Systems
+GenAI | AIOps | DevSecOps | DevOps Engineer
 
-Software engineer. I spend most of my time on Linux systems, networks, cloud, and the machines that sit behind them.
+Software Engineer by passion. I spend most of my time on Linux systems, networks, cloud, and the machines that sit behind IT Infrastrcure.
 
 ## Work on GitHub
 
@@ -14,10 +14,9 @@ Software engineer. I spend most of my time on Linux systems, networks, cloud, an
 | [LazySecOPS](https://github.com/SK-here/LazySecOPS) | Threat hunting, threat analysis, and malware analysis notes |
 | [Ansible](https://github.com/SK-here/Ansible) | Ansible playbooks and associated files |
 | [Python-Automation](https://github.com/SK-here/Python-Automation) | Python automation scripts |
-| [RHCSA](https://github.com/SK-here/RHCSA) | RHCSA exam-objective material |
 | [Library-Management-System](https://github.com/SK-here/Library-Management-System) | Graphical library management system |
 
-## Elsewhere
+## Find me Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/saksham-trivedi/)
 - [X](https://twitter.com/_subnetmask_) — `@_subnetmask_`
